@@ -12,19 +12,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/dvtp25qq3hc1nz9/me.alfhaily.rocket_v3.0.2.ipa?dl=1</string>
+					<string> https://github.com/nalendar/rules/raw/master/inrk.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>me.alfhaily.rocket_v3.0.2</string>
+				<string>me.alfhaily.rocket</string>
 				<key>bundle-version</key>
 				<string>4.10.1-master</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Instagram Rocket</string>
+				<string>Instagram</string>
 			</dict>
 		</dict>
 	</array>
